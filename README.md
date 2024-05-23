@@ -1,5 +1,2 @@
-# NativeAndroidWebRTC
-
-# a simple project of using native webrtc
-# the signalling server is inside the source, called webrtc server
-# you can watch the tutorial in my youtube channel : youtube.com/codewithkael
+1. 2 emulators에서 돌아가는 것을 확인할 수 있음
+2. 지연시간이 10초 정도 됨
